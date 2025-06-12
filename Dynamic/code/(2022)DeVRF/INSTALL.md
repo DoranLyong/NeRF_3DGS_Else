@@ -1,7 +1,7 @@
 # Installation 
 ```
-# -- Tested Env.
-python==3.10, torch==2.7.1+cu128
+# -- We run on python==3.10 and PyTorch2 with CUDA 12.8  
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128 
 ```
 
 ```bash
