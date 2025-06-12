@@ -12,7 +12,7 @@
 
   
 
-<img  src="/figures/DeVRF.png"  alt="DeVRF"  style="zoom:67%;"  />
+<img  src="./figures/DeVRF.png"  alt="DeVRF"  style="zoom:67%;"  />
 
   
 
