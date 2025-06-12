@@ -17,6 +17,12 @@ cd pytorch3d
 
 FORCE_CUDA="1" CUDA_HOME=/usr/local/cuda-12.8 pip install .
 ```
+* `fvcore` and `iopath` are needed for PyTorch3D. 
+* `FORCE_CUDA="1"`: An environment variable that the CUDA kernel should be compiled.
+* `CUDA_HOME=/usr/local/cuda-12.8`: The path of CUDA Toolkit
+* `pip install .`: Install it in this directory.
+
+
 
 Install `mmcv` and `mmengine` for config system.
 ```bash
