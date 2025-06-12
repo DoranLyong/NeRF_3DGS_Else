@@ -34,9 +34,7 @@ git clone https://github.com/showlab/DeVRF.git
 cd DeVRF
 pip install -r requirements.txt
 ```
-[Pytorch](https://pytorch.org/) and [torch_scatter](https://github.com/rusty1s/pytorch_scatter) installation is machine dependent, please install the correct version for your machine.
-
-Check more details in [INSTALL.md](./INSTALL.md).
+[Pytorch](https://pytorch.org/) and [torch_scatter](https://github.com/rusty1s/pytorch_scatter) installation is machine dependent, please install the correct version for your machine. Check more details in [INSTALL.md](./INSTALL.md).
 
 
 
