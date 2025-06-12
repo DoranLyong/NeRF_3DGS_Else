@@ -4,7 +4,10 @@
 
 ## Radiance Fields 
 
-## Voxel-based 
+### Volume-based
+
+### Voxel-based 
 
 * (2022 NeurIPS) [DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes](./code/(2022)DeVRF).
 
+### Splatting-based
